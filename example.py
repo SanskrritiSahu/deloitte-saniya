@@ -1,6 +1,6 @@
-date='23-1-24'
+date='23-2-24'
 sub="Github"
-place="Bangalore"
+place="Mangalore"
 
 
 print("Hi we are attending {} class at {} on {}".format(sub,place,date))
